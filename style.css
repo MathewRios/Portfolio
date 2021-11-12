@@ -19,24 +19,24 @@ p {
 }
 
 .pad {
-  padding: 2px 500px 10px 500px;
+  padding: 2px 50px 10px 50px;
 }
 
 h3 {
   padding-bottom: 3px;
 }
 ul {
-  padding:2px 150px 0px 150px;
-  list-style-position: outside;
+  padding:2px 15px 0px 15px;
+  list-style-position: inside;
   text-align:center;
-  line-height:1.4;
+  line-height:1.8;
 }
 
 ol {
-  padding:2px 400px 0px 400px;
-  list-style-position: outside;
+  padding:2px 40px 0px 40px;
+  list-style-position: inside;
   text-align:center;
-  line-height:1.4;
+  line-height:1.8;
 }
 
 a:link    { color: #f3722c;  }
@@ -60,3 +60,6 @@ img {
 padding-top: 70px
 }
 
+.sections {
+  padding: 3px 20px 2px 20px;
+}
