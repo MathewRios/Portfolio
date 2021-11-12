@@ -1,1 +1,62 @@
+html {
+  margin: 0px;   /* didn't find use for this here */
+}
+
+body {
+  font-family: georgia, arial;
+  color: #a9d6e5;
+  background-color: #012a4a;
+  text-align:center;
+}
+
+/*throughout the css I'm trying different things to make things look to my liking. Not perfect and I'm sure not efficient.*/
+
+p {
+  font-size: 15px;
+  letter-spacing: 1px;   
+  word-spacing: 1px;
+  line-height:1.8;
+}
+
+.pad {
+  padding: 2px 500px 10px 500px;
+}
+
+h3 {
+  padding-bottom: 3px;
+}
+ul {
+  padding:2px 150px 0px 150px;
+  list-style-position: outside;
+  text-align:center;
+  line-height:1.4;
+}
+
+ol {
+  padding:2px 400px 0px 400px;
+  list-style-position: outside;
+  text-align:center;
+  line-height:1.4;
+}
+
+a:link    { color: #f3722c;  }
+a:visited { color: #a9d6e5;   }
+a:hover   { color: white; }
+a:active  { color: #a9d6e5;  }
+
+header {
+  background-color: #014f86;
+}
+
+/* tried a lot to get the background for the footer to cover the entire bottom of the page. Couldn't figure it out */
+
+ footer {
+  background-color: #014f86;
+  margin-bottom: 0px;
+  padding: 2px 50px 18px 50px;
+}
+
+img {
+padding-top: 70px
+}
 
