@@ -19,23 +19,23 @@ p {
 }
 
 .pad {
-  padding: 2px 50px 10px 50px;
+  padding: 2px 350px 10px 350px;
 }
 
 h3 {
   padding-bottom: 3px;
 }
 ul {
-  padding:2px 15px 0px 15px;
-  list-style-position: inside;
+  padding:2px 200px 0px 200px;
+  list-style-position: outside;
   text-align:center;
   line-height:1.8;
 }
 
 ol {
-  padding:2px 40px 0px 40px;
-  list-style-position: inside;
-  text-align:center;
+  padding-left: 550px;
+  list-style-position: outside;
+  text-align:justify;
   line-height:1.8;
 }
 
@@ -64,4 +64,4 @@ padding-top: 70px
   padding: 3px 20px 2px 20px;
 }
 
-/* I was having confusion as to what image I should pay attention to: the one on replit or the image of the page I get when I open it in a new tab. I think the new tab is what's important but any clarification would be much helpful*/
+/* I got confused between what image I shoul be paying attention to: the image of the page on replit or the image of the page when I open it in a new tab. I figured it was the new tab but any clarification would be helpful. */
