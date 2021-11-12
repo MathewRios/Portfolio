@@ -25,6 +25,8 @@ p {
 h3 {
   padding-bottom: 3px;
 }
+
+/* tried my best to get the bullets to look decent on the page*/
 ul {
   padding:2px 200px 0px 200px;
   list-style-position: outside;
@@ -38,7 +40,7 @@ ol {
   text-align:justify;
   line-height:1.8;
 }
-
+/* styled links */
 a:link    { color: #f3722c;  }
 a:visited { color: #a9d6e5;   }
 a:hover   { color: white; }
