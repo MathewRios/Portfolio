@@ -1,5 +1,6 @@
 html {
-  margin: 0px;   /* didn't find use for this here */
+  margin-right: 50px; 
+  margin-left: 50px;  /* didn't find use for this here */
 }
 
 body {
@@ -22,6 +23,9 @@ p {
   padding: 2px 50px 10px 50px;
 }
 
+h2 {
+  padding-top: 15px;
+}
 h3 {
   padding-bottom: 3px;
 }
@@ -57,9 +61,12 @@ header {
 }
 
 img {
-padding-top: 70px
+padding-top: 70px;
+padding-bottom: 5px;
 }
 
 .sections {
   padding: 3px 20px 2px 20px;
 }
+
+/* I just realized that the image of the page im getting in replit is different from what the page would look like if I open it in a new tab. I guess the image in replit is the accurate one. So I went back and touched up on things to make it look normal and better than when I first submitted it. */
